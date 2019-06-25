@@ -1,2 +1,2 @@
-debian/bin/blackcoind usr/bin
-src/blackcoind usr/lib/blackcoin
+debian/bin/pluscoind usr/bin
+src/pluscoind usr/lib/pluscoin
